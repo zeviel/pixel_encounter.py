@@ -1,5 +1,5 @@
 # pixelencounter.py
-Web-API for [pixelencounter.com](https://pixelencounter.com) website that generates randomly generated pixel monsters and planets
+Web-API for [pixelencounter.com](https://pixelencounter.com) website that generates randomly generated pixel monsters & planets
 
 ## Example
 ```python3
